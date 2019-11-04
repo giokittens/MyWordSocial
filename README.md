@@ -1,2 +1,1 @@
-# MyWordSocial
-conclusão da segunda tela
+# MyWorldSocial
